@@ -1,0 +1,7345 @@
+{
+  "workspaceFoldersFilePaths": [
+    "d:\\windows\\Rossine/"
+  ],
+  "symbols": [
+    {
+      "name": "# QI Support AI",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 0,
+        "character": 0
+      },
+      "end": {
+        "line": 45,
+        "character": 0
+      }
+    },
+    {
+      "name": "## Como começar",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 15,
+        "character": 0
+      },
+      "end": {
+        "line": 28,
+        "character": 0
+      }
+    },
+    {
+      "name": "## Endpoints principais",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 29,
+        "character": 0
+      },
+      "end": {
+        "line": 36,
+        "character": 0
+      }
+    },
+    {
+      "name": "## Estrutura",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 10,
+        "character": 0
+      },
+      "end": {
+        "line": 14,
+        "character": 0
+      }
+    },
+    {
+      "name": "## Observações",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 42,
+        "character": 0
+      },
+      "end": {
+        "line": 45,
+        "character": 0
+      }
+    },
+    {
+      "name": "## Tecnologias",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 9,
+        "character": 0
+      }
+    },
+    {
+      "name": "## Usuário padrão",
+      "kind": 14,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\README.md",
+      "start": {
+        "line": 37,
+        "character": 0
+      },
+      "end": {
+        "line": 41,
+        "character": 0
+      }
+    },
+    {
+      "name": "AiConfig",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 16,
+        "character": 0
+      },
+      "end": {
+        "line": 22,
+        "character": 1
+      }
+    },
+    {
+      "name": "AiLog",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 15,
+        "character": 0
+      },
+      "end": {
+        "line": 23,
+        "character": 1
+      }
+    },
+    {
+      "name": "AiLogEntry",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\aiLogs.ts",
+      "start": {
+        "line": 5,
+        "character": 0
+      },
+      "end": {
+        "line": 13,
+        "character": 1
+      }
+    },
+    {
+      "name": "App()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 259,
+        "character": 1
+      }
+    },
+    {
+      "name": "AuthContext",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 20,
+        "character": 6
+      },
+      "end": {
+        "line": 20,
+        "character": 64
+      }
+    },
+    {
+      "name": "AuthContextValue",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 11,
+        "character": 0
+      },
+      "end": {
+        "line": 18,
+        "character": 1
+      }
+    },
+    {
+      "name": "AuthPayload",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\utils\\types.ts",
+      "start": {
+        "line": 2,
+        "character": 0
+      },
+      "end": {
+        "line": 6,
+        "character": 1
+      }
+    },
+    {
+      "name": "AuthProvider()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 22,
+        "character": 0
+      },
+      "end": {
+        "line": 72,
+        "character": 1
+      }
+    },
+    {
+      "name": "AuthRequest",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\utils\\types.ts",
+      "start": {
+        "line": 8,
+        "character": 0
+      },
+      "end": {
+        "line": 10,
+        "character": 1
+      }
+    },
+    {
+      "name": "Authorization",
+      "kind": 7,
+      "containerName": "api",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 29,
+        "character": 13
+      },
+      "end": {
+        "line": 29,
+        "character": 54
+      }
+    },
+    {
+      "name": "Company",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 0,
+        "character": 0
+      },
+      "end": {
+        "line": 9,
+        "character": 1
+      }
+    },
+    {
+      "name": "CompanySettings",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 46,
+        "character": 0
+      },
+      "end": {
+        "line": 53,
+        "character": 1
+      }
+    },
+    {
+      "name": "ConnInfo",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 6,
+        "character": 0
+      },
+      "end": {
+        "line": 13,
+        "character": 1
+      }
+    },
+    {
+      "name": "Conversation",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 23,
+        "character": 0
+      },
+      "end": {
+        "line": 34,
+        "character": 1
+      }
+    },
+    {
+      "name": "Conversation",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 13,
+        "character": 0
+      },
+      "end": {
+        "line": 18,
+        "character": 1
+      }
+    },
+    {
+      "name": "Conversation",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 11,
+        "character": 1
+      }
+    },
+    {
+      "name": "ConversationChatPage()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 20,
+        "character": 0
+      },
+      "end": {
+        "line": 162,
+        "character": 1
+      }
+    },
+    {
+      "name": "ConversationsPage()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 13,
+        "character": 0
+      },
+      "end": {
+        "line": 98,
+        "character": 1
+      }
+    },
+    {
+      "name": "DEFAULT_AI_MODEL",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\constants\\erpPrompt.ts",
+      "start": {
+        "line": 21,
+        "character": 13
+      },
+      "end": {
+        "line": 21,
+        "character": 45
+      }
+    },
+    {
+      "name": "DEFAULT_ERP_SYSTEM_PROMPT",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\constants\\erpPrompt.ts",
+      "start": {
+        "line": 0,
+        "character": 13
+      },
+      "end": {
+        "line": 19,
+        "character": 85
+      }
+    },
+    {
+      "name": "DataStore",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 69,
+        "character": 0
+      },
+      "end": {
+        "line": 75,
+        "character": 1
+      }
+    },
+    {
+      "name": "EmbeddingRecord",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 59,
+        "character": 0
+      },
+      "end": {
+        "line": 67,
+        "character": 1
+      }
+    },
+    {
+      "name": "ExternalDbConfig",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 14,
+        "character": 1
+      }
+    },
+    {
+      "name": "ExternalDbType",
+      "kind": 4,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 2,
+        "character": 0
+      },
+      "end": {
+        "line": 2,
+        "character": 88
+      }
+    },
+    {
+      "name": "KnowledgeItem",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 3,
+        "character": 0
+      },
+      "end": {
+        "line": 10,
+        "character": 1
+      }
+    },
+    {
+      "name": "KnowledgePage()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 135,
+        "character": 1
+      }
+    },
+    {
+      "name": "Layout()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\Layout.tsx",
+      "start": {
+        "line": 10,
+        "character": 0
+      },
+      "end": {
+        "line": 73,
+        "character": 1
+      }
+    },
+    {
+      "name": "LoginPage()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 78,
+        "character": 1
+      }
+    },
+    {
+      "name": "Message",
+      "kind": 10,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 5,
+        "character": 0
+      },
+      "end": {
+        "line": 11,
+        "character": 1
+      }
+    },
+    {
+      "name": "action",
+      "kind": 7,
+      "containerName": "AiLogEntry",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\aiLogs.ts",
+      "start": {
+        "line": 8,
+        "character": 2
+      },
+      "end": {
+        "line": 8,
+        "character": 17
+      }
+    },
+    {
+      "name": "action",
+      "kind": 7,
+      "containerName": "AiLog",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 18,
+        "character": 2
+      },
+      "end": {
+        "line": 18,
+        "character": 17
+      }
+    },
+    {
+      "name": "active",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 19,
+        "character": 2
+      },
+      "end": {
+        "line": 19,
+        "character": 18
+      }
+    },
+    {
+      "name": "addEmbedding()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 345,
+        "character": 0
+      },
+      "end": {
+        "line": 355,
+        "character": 1
+      }
+    },
+    {
+      "name": "addMessage()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 242,
+        "character": 0
+      },
+      "end": {
+        "line": 267,
+        "character": 1
+      }
+    },
+    {
+      "name": "admin",
+      "kind": 12,
+      "containerName": "initializeStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 113,
+        "character": 8
+      },
+      "end": {
+        "line": 123,
+        "character": 3
+      }
+    },
+    {
+      "name": "admin",
+      "kind": 12,
+      "containerName": "setupCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 386,
+        "character": 8
+      },
+      "end": {
+        "line": 396,
+        "character": 3
+      }
+    },
+    {
+      "name": "adminEmail",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 6,
+        "character": 8
+      },
+      "end": {
+        "line": 6,
+        "character": 69
+      }
+    },
+    {
+      "name": "adminEmail",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 24,
+        "character": 40
+      },
+      "end": {
+        "line": 24,
+        "character": 50
+      }
+    },
+    {
+      "name": "adminEmail",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 12,
+        "character": 9
+      },
+      "end": {
+        "line": 12,
+        "character": 19
+      }
+    },
+    {
+      "name": "adminHash",
+      "kind": 12,
+      "containerName": "initializeStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 112,
+        "character": 8
+      },
+      "end": {
+        "line": 112,
+        "character": 50
+      }
+    },
+    {
+      "name": "adminName",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 24,
+        "character": 29
+      },
+      "end": {
+        "line": 24,
+        "character": 38
+      }
+    },
+    {
+      "name": "adminName",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 11,
+        "character": 9
+      },
+      "end": {
+        "line": 11,
+        "character": 18
+      }
+    },
+    {
+      "name": "adminPassword",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 7,
+        "character": 8
+      },
+      "end": {
+        "line": 7,
+        "character": 70
+      }
+    },
+    {
+      "name": "adminPassword",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 24,
+        "character": 52
+      },
+      "end": {
+        "line": 24,
+        "character": 65
+      }
+    },
+    {
+      "name": "adminPassword",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 13,
+        "character": 9
+      },
+      "end": {
+        "line": 13,
+        "character": 22
+      }
+    },
+    {
+      "name": "adminUser",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 20,
+        "character": 8
+      },
+      "end": {
+        "line": 20,
+        "character": 82
+      }
+    },
+    {
+      "name": "adminUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 45,
+        "character": 8
+      },
+      "end": {
+        "line": 54,
+        "character": 4
+      }
+    },
+    {
+      "name": "ai",
+      "kind": 7,
+      "containerName": "CompanySettings",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 48,
+        "character": 2
+      },
+      "end": {
+        "line": 48,
+        "character": 16
+      }
+    },
+    {
+      "name": "ai",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 43,
+        "character": 9
+      },
+      "end": {
+        "line": 43,
+        "character": 11
+      }
+    },
+    {
+      "name": "aiAnswer",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 18,
+        "character": 9
+      },
+      "end": {
+        "line": 18,
+        "character": 17
+      }
+    },
+    {
+      "name": "aiAssistConversation",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 111,
+        "character": 13
+      },
+      "end": {
+        "line": 151,
+        "character": 1
+      }
+    },
+    {
+      "name": "aiEnabled",
+      "kind": 7,
+      "containerName": "Company",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 4,
+        "character": 2
+      },
+      "end": {
+        "line": 4,
+        "character": 21
+      }
+    },
+    {
+      "name": "aiEnabled",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 92,
+        "character": 29
+      },
+      "end": {
+        "line": 92,
+        "character": 47
+      }
+    },
+    {
+      "name": "aiEnabled",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 16,
+        "character": 9
+      },
+      "end": {
+        "line": 16,
+        "character": 18
+      }
+    },
+    {
+      "name": "aiEnabled",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 31,
+        "character": 9
+      },
+      "end": {
+        "line": 31,
+        "character": 18
+      }
+    },
+    {
+      "name": "aiQuestion",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 17,
+        "character": 9
+      },
+      "end": {
+        "line": 17,
+        "character": 19
+      }
+    },
+    {
+      "name": "aiText",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 25,
+        "character": 9
+      },
+      "end": {
+        "line": 25,
+        "character": 15
+      }
+    },
+    {
+      "name": "allKnowledge",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 73,
+        "character": 8
+      },
+      "end": {
+        "line": 73,
+        "character": 130
+      }
+    },
+    {
+      "name": "analysis",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 44,
+        "character": 8
+      },
+      "end": {
+        "line": 44,
+        "character": 65
+      }
+    },
+    {
+      "name": "analyzeConversation()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 55,
+        "character": 0
+      },
+      "end": {
+        "line": 63,
+        "character": 1
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 50,
+        "character": 2
+      },
+      "end": {
+        "line": 50,
+        "character": 17
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 7,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 65,
+        "character": 31
+      },
+      "end": {
+        "line": 65,
+        "character": 45
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 6,
+        "character": 2
+      },
+      "end": {
+        "line": 6,
+        "character": 17
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 7,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 46,
+        "character": 31
+      },
+      "end": {
+        "line": 46,
+        "character": 45
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 47,
+        "character": 8
+      },
+      "end": {
+        "line": 47,
+        "character": 72
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 45,
+        "character": 19
+      },
+      "end": {
+        "line": 45,
+        "character": 25
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 144,
+        "character": 8
+      },
+      "end": {
+        "line": 148,
+        "character": 3
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 36,
+        "character": 17
+      },
+      "end": {
+        "line": 36,
+        "character": 23
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 61,
+        "character": 17
+      },
+      "end": {
+        "line": 61,
+        "character": 23
+      }
+    },
+    {
+      "name": "answer",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 16,
+        "character": 9
+      },
+      "end": {
+        "line": 16,
+        "character": 15
+      }
+    },
+    {
+      "name": "answerText",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 47,
+        "character": 8
+      },
+      "end": {
+        "line": 47,
+        "character": 48
+      }
+    },
+    {
+      "name": "api()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 20,
+        "character": 0
+      },
+      "end": {
+        "line": 37,
+        "character": 1
+      }
+    },
+    {
+      "name": "apiBase",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 2,
+        "character": 6
+      },
+      "end": {
+        "line": 2,
+        "character": 76
+      }
+    },
+    {
+      "name": "apiKey",
+      "kind": 7,
+      "containerName": "WhatsappConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 28,
+        "character": 2
+      },
+      "end": {
+        "line": 28,
+        "character": 18
+      }
+    },
+    {
+      "name": "apiKey",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 41,
+        "character": 10
+      },
+      "end": {
+        "line": 41,
+        "character": 16
+      }
+    },
+    {
+      "name": "apiKey",
+      "kind": 12,
+      "containerName": "getClientForCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 32,
+        "character": 8
+      },
+      "end": {
+        "line": 32,
+        "character": 85
+      }
+    },
+    {
+      "name": "apiUrl",
+      "kind": 7,
+      "containerName": "WhatsappConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 26,
+        "character": 2
+      },
+      "end": {
+        "line": 26,
+        "character": 18
+      }
+    },
+    {
+      "name": "app",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\app.ts",
+      "start": {
+        "line": 16,
+        "character": 6
+      },
+      "end": {
+        "line": 16,
+        "character": 21
+      }
+    },
+    {
+      "name": "appendAiLog()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\aiLogs.ts",
+      "start": {
+        "line": 21,
+        "character": 0
+      },
+      "end": {
+        "line": 28,
+        "character": 1
+      }
+    },
+    {
+      "name": "appendMessageToTxt()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 39,
+        "character": 0
+      },
+      "end": {
+        "line": 48,
+        "character": 1
+      }
+    },
+    {
+      "name": "approved",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 52,
+        "character": 2
+      },
+      "end": {
+        "line": 52,
+        "character": 20
+      }
+    },
+    {
+      "name": "approved",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 20
+      }
+    },
+    {
+      "name": "approved",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 36,
+        "character": 37
+      },
+      "end": {
+        "line": 36,
+        "character": 45
+      }
+    },
+    {
+      "name": "approved",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 61,
+        "character": 37
+      },
+      "end": {
+        "line": 61,
+        "character": 45
+      }
+    },
+    {
+      "name": "asRecord()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 15,
+        "character": 0
+      },
+      "end": {
+        "line": 17,
+        "character": 1
+      }
+    },
+    {
+      "name": "askAi",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 61,
+        "character": 8
+      },
+      "end": {
+        "line": 74,
+        "character": 3
+      }
+    },
+    {
+      "name": "assistantAnswer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 78,
+        "character": 8
+      },
+      "end": {
+        "line": 78,
+        "character": 81
+      }
+    },
+    {
+      "name": "attachments",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 86,
+        "character": 4
+      },
+      "end": {
+        "line": 86,
+        "character": 15
+      }
+    },
+    {
+      "name": "attendant",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 100,
+        "character": 8
+      },
+      "end": {
+        "line": 100,
+        "character": 103
+      }
+    },
+    {
+      "name": "attendantName",
+      "kind": 7,
+      "containerName": "upsertConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 221,
+        "character": 4
+      },
+      "end": {
+        "line": 221,
+        "character": 66
+      }
+    },
+    {
+      "name": "attendantName",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 29,
+        "character": 2
+      },
+      "end": {
+        "line": 29,
+        "character": 25
+      }
+    },
+    {
+      "name": "attendantName",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 81,
+        "character": 4
+      },
+      "end": {
+        "line": 81,
+        "character": 17
+      }
+    },
+    {
+      "name": "authHeader",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\middleware\\auth.ts",
+      "start": {
+        "line": 8,
+        "character": 8
+      },
+      "end": {
+        "line": 8,
+        "character": 47
+      }
+    },
+    {
+      "name": "authMiddleware",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\middleware\\auth.ts",
+      "start": {
+        "line": 6,
+        "character": 13
+      },
+      "end": {
+        "line": 26,
+        "character": 1
+      }
+    },
+    {
+      "name": "authReq",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\middleware\\auth.ts",
+      "start": {
+        "line": 7,
+        "character": 8
+      },
+      "end": {
+        "line": 7,
+        "character": 36
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 14,
+        "character": 8
+      },
+      "end": {
+        "line": 14,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 57,
+        "character": 8
+      },
+      "end": {
+        "line": 57,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\authController.ts",
+      "start": {
+        "line": 32,
+        "character": 8
+      },
+      "end": {
+        "line": 32,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 32,
+        "character": 8
+      },
+      "end": {
+        "line": 32,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 41,
+        "character": 8
+      },
+      "end": {
+        "line": 41,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 61,
+        "character": 8
+      },
+      "end": {
+        "line": 61,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 100,
+        "character": 8
+      },
+      "end": {
+        "line": 100,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 112,
+        "character": 8
+      },
+      "end": {
+        "line": 112,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 5,
+        "character": 8
+      },
+      "end": {
+        "line": 5,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 35,
+        "character": 8
+      },
+      "end": {
+        "line": 35,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 59,
+        "character": 8
+      },
+      "end": {
+        "line": 59,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 86,
+        "character": 8
+      },
+      "end": {
+        "line": 86,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 5,
+        "character": 8
+      },
+      "end": {
+        "line": 5,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 21,
+        "character": 8
+      },
+      "end": {
+        "line": 21,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 40,
+        "character": 8
+      },
+      "end": {
+        "line": 40,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\userController.ts",
+      "start": {
+        "line": 6,
+        "character": 8
+      },
+      "end": {
+        "line": 6,
+        "character": 44
+      }
+    },
+    {
+      "name": "authUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\userController.ts",
+      "start": {
+        "line": 35,
+        "character": 8
+      },
+      "end": {
+        "line": 35,
+        "character": 44
+      }
+    },
+    {
+      "name": "baseUrl()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 6,
+        "character": 1
+      }
+    },
+    {
+      "name": "bindHost",
+      "kind": 7,
+      "containerName": "ServerConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 38,
+        "character": 2
+      },
+      "end": {
+        "line": 38,
+        "character": 20
+      }
+    },
+    {
+      "name": "body",
+      "kind": 7,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 27,
+        "character": 88
+      },
+      "end": {
+        "line": 27,
+        "character": 100
+      }
+    },
+    {
+      "name": "body",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 40,
+        "character": 2
+      },
+      "end": {
+        "line": 40,
+        "character": 15
+      }
+    },
+    {
+      "name": "body",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 15
+      }
+    },
+    {
+      "name": "body",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 74,
+        "character": 8
+      },
+      "end": {
+        "line": 74,
+        "character": 29
+      }
+    },
+    {
+      "name": "botEnabled",
+      "kind": 7,
+      "containerName": "WhatsappConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 30,
+        "character": 2
+      },
+      "end": {
+        "line": 30,
+        "character": 23
+      }
+    },
+    {
+      "name": "botEnabled",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 101,
+        "character": 29
+      },
+      "end": {
+        "line": 101,
+        "character": 48
+      }
+    },
+    {
+      "name": "botEnabled",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 32,
+        "character": 9
+      },
+      "end": {
+        "line": 32,
+        "character": 19
+      }
+    },
+    {
+      "name": "bottomRef",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 27,
+        "character": 8
+      },
+      "end": {
+        "line": 27,
+        "character": 48
+      }
+    },
+    {
+      "name": "c",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 80,
+        "character": 10
+      },
+      "end": {
+        "line": 80,
+        "character": 66
+      }
+    },
+    {
+      "name": "candidateEmbeddings",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 23,
+        "character": 8
+      },
+      "end": {
+        "line": 23,
+        "character": 107
+      }
+    },
+    {
+      "name": "categories",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 35,
+        "character": 8
+      },
+      "end": {
+        "line": 51,
+        "character": 3
+      }
+    },
+    {
+      "name": "category",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 51,
+        "character": 2
+      },
+      "end": {
+        "line": 51,
+        "character": 20
+      }
+    },
+    {
+      "name": "category",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 9,
+        "character": 2
+      },
+      "end": {
+        "line": 9,
+        "character": 30
+      }
+    },
+    {
+      "name": "category",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 49,
+        "character": 8
+      },
+      "end": {
+        "line": 49,
+        "character": 128
+      }
+    },
+    {
+      "name": "categoryId",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 6,
+        "character": 18
+      },
+      "end": {
+        "line": 6,
+        "character": 28
+      }
+    },
+    {
+      "name": "categoryId",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 36,
+        "character": 25
+      },
+      "end": {
+        "line": 36,
+        "character": 35
+      }
+    },
+    {
+      "name": "categoryId",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 61,
+        "character": 25
+      },
+      "end": {
+        "line": 61,
+        "character": 35
+      }
+    },
+    {
+      "name": "cfg",
+      "kind": 12,
+      "containerName": "connectWhatsapp",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 25,
+        "character": 8
+      },
+      "end": {
+        "line": 25,
+        "character": 37
+      }
+    },
+    {
+      "name": "cfg",
+      "kind": 12,
+      "containerName": "whatsappStatus",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 95,
+        "character": 8
+      },
+      "end": {
+        "line": 95,
+        "character": 37
+      }
+    },
+    {
+      "name": "cfg",
+      "kind": 12,
+      "containerName": "whatsappQr",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 126,
+        "character": 8
+      },
+      "end": {
+        "line": 126,
+        "character": 37
+      }
+    },
+    {
+      "name": "cfg",
+      "kind": 12,
+      "containerName": "sendWhatsappText",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 148,
+        "character": 8
+      },
+      "end": {
+        "line": 148,
+        "character": 37
+      }
+    },
+    {
+      "name": "cfg",
+      "kind": 12,
+      "containerName": "ensureWhatsappOnBoot",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 168,
+        "character": 8
+      },
+      "end": {
+        "line": 168,
+        "character": 37
+      }
+    },
+    {
+      "name": "chatId",
+      "kind": 12,
+      "containerName": "sendLocalText",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 197,
+        "character": 8
+      },
+      "end": {
+        "line": 197,
+        "character": 33
+      }
+    },
+    {
+      "name": "cleanKey()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\config\\loadSecrets.ts",
+      "start": {
+        "line": 5,
+        "character": 0
+      },
+      "end": {
+        "line": 13,
+        "character": 1
+      }
+    },
+    {
+      "name": "client",
+      "kind": 12,
+      "containerName": "createEmbedding",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 37,
+        "character": 8
+      },
+      "end": {
+        "line": 37,
+        "character": 85
+      }
+    },
+    {
+      "name": "client",
+      "kind": 12,
+      "containerName": "createCompletion",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 46,
+        "character": 8
+      },
+      "end": {
+        "line": 46,
+        "character": 85
+      }
+    },
+    {
+      "name": "client",
+      "kind": 12,
+      "containerName": "analyzeConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 56,
+        "character": 8
+      },
+      "end": {
+        "line": 56,
+        "character": 85
+      }
+    },
+    {
+      "name": "client",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 14,
+        "character": 4
+      },
+      "end": {
+        "line": 14,
+        "character": 32
+      }
+    },
+    {
+      "name": "clientCache",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 4,
+        "character": 6
+      },
+      "end": {
+        "line": 4,
+        "character": 45
+      }
+    },
+    {
+      "name": "closeChat",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 76,
+        "character": 8
+      },
+      "end": {
+        "line": 80,
+        "character": 3
+      }
+    },
+    {
+      "name": "closeConversation()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 282,
+        "character": 0
+      },
+      "end": {
+        "line": 290,
+        "character": 1
+      }
+    },
+    {
+      "name": "closeConversationHandler",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 99,
+        "character": 13
+      },
+      "end": {
+        "line": 109,
+        "character": 1
+      }
+    },
+    {
+      "name": "company",
+      "kind": 7,
+      "containerName": "updateCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 141,
+        "character": 2
+      },
+      "end": {
+        "line": 141,
+        "character": 83
+      }
+    },
+    {
+      "name": "company",
+      "kind": 7,
+      "containerName": "findUserByLogin",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 146,
+        "character": 58
+      },
+      "end": {
+        "line": 146,
+        "character": 74
+      }
+    },
+    {
+      "name": "company",
+      "kind": 7,
+      "containerName": "getUserById",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 157,
+        "character": 51
+      },
+      "end": {
+        "line": 157,
+        "character": 67
+      }
+    },
+    {
+      "name": "company",
+      "kind": 7,
+      "containerName": "DataStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 70,
+        "character": 2
+      },
+      "end": {
+        "line": 70,
+        "character": 26
+      }
+    },
+    {
+      "name": "company",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 8,
+        "character": 2
+      },
+      "end": {
+        "line": 8,
+        "character": 40
+      }
+    },
+    {
+      "name": "company",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 55,
+        "character": 6
+      },
+      "end": {
+        "line": 55,
+        "character": 30
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 9,
+        "character": 6
+      },
+      "end": {
+        "line": 9,
+        "character": 81
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 94,
+        "character": 8
+      },
+      "end": {
+        "line": 94,
+        "character": 79
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 118,
+        "character": 8
+      },
+      "end": {
+        "line": 118,
+        "character": 30
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 12,
+        "character": 8
+      },
+      "end": {
+        "line": 15,
+        "character": 4
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 26,
+        "character": 8
+      },
+      "end": {
+        "line": 29,
+        "character": 4
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 56,
+        "character": 8
+      },
+      "end": {
+        "line": 59,
+        "character": 4
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 37,
+        "character": 8
+      },
+      "end": {
+        "line": 43,
+        "character": 4
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "getCompanySettings",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 65,
+        "character": 8
+      },
+      "end": {
+        "line": 65,
+        "character": 30
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "saveCompanySettings",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 70,
+        "character": 8
+      },
+      "end": {
+        "line": 70,
+        "character": 30
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "getClientForCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 27,
+        "character": 8
+      },
+      "end": {
+        "line": 30,
+        "character": 4
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "handleIncomingMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 39,
+        "character": 8
+      },
+      "end": {
+        "line": 39,
+        "character": 30
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "initializeStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 97,
+        "character": 8
+      },
+      "end": {
+        "line": 110,
+        "character": 3
+      }
+    },
+    {
+      "name": "company",
+      "kind": 12,
+      "containerName": "setupCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 373,
+        "character": 8
+      },
+      "end": {
+        "line": 384,
+        "character": 3
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 13,
+        "character": 2
+      },
+      "end": {
+        "line": 13,
+        "character": 20
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 25,
+        "character": 2
+      },
+      "end": {
+        "line": 25,
+        "character": 20
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 48,
+        "character": 2
+      },
+      "end": {
+        "line": 48,
+        "character": 20
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 7,
+      "containerName": "EmbeddingRecord",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 61,
+        "character": 2
+      },
+      "end": {
+        "line": 61,
+        "character": 20
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 7,
+      "containerName": "AuthPayload",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\utils\\types.ts",
+      "start": {
+        "line": 4,
+        "character": 2
+      },
+      "end": {
+        "line": 4,
+        "character": 20
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 77,
+        "character": 4
+      },
+      "end": {
+        "line": 77,
+        "character": 13
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 12,
+      "containerName": "initializeStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 83,
+        "character": 8
+      },
+      "end": {
+        "line": 83,
+        "character": 32
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 12,
+      "containerName": "setupCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 371,
+        "character": 8
+      },
+      "end": {
+        "line": 371,
+        "character": 32
+      }
+    },
+    {
+      "name": "companyId",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 30,
+        "character": 9
+      },
+      "end": {
+        "line": 30,
+        "character": 18
+      }
+    },
+    {
+      "name": "companyName",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 5,
+        "character": 8
+      },
+      "end": {
+        "line": 5,
+        "character": 37
+      }
+    },
+    {
+      "name": "companyName",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 24,
+        "character": 10
+      },
+      "end": {
+        "line": 24,
+        "character": 21
+      }
+    },
+    {
+      "name": "companyName",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 9,
+        "character": 9
+      },
+      "end": {
+        "line": 9,
+        "character": 20
+      }
+    },
+    {
+      "name": "companySlug",
+      "kind": 12,
+      "containerName": "main",
+      "filePath": "d:\\windows\\Rossine\\backend\\prisma\\seed.ts",
+      "start": {
+        "line": 4,
+        "character": 8
+      },
+      "end": {
+        "line": 4,
+        "character": 37
+      }
+    },
+    {
+      "name": "confidence",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 53,
+        "character": 2
+      },
+      "end": {
+        "line": 53,
+        "character": 21
+      }
+    },
+    {
+      "name": "confidence",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 8,
+        "character": 2
+      },
+      "end": {
+        "line": 8,
+        "character": 21
+      }
+    },
+    {
+      "name": "confidence",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 61,
+        "character": 47
+      },
+      "end": {
+        "line": 61,
+        "character": 57
+      }
+    },
+    {
+      "name": "conn",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 34,
+        "character": 9
+      },
+      "end": {
+        "line": 34,
+        "character": 13
+      }
+    },
+    {
+      "name": "connectData",
+      "kind": 12,
+      "containerName": "connectWhatsapp",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 69,
+        "character": 8
+      },
+      "end": {
+        "line": 69,
+        "character": 73
+      }
+    },
+    {
+      "name": "connectRes",
+      "kind": 12,
+      "containerName": "connectWhatsapp",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 65,
+        "character": 8
+      },
+      "end": {
+        "line": 68,
+        "character": 4
+      }
+    },
+    {
+      "name": "connectWa",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 140,
+        "character": 8
+      },
+      "end": {
+        "line": 147,
+        "character": 3
+      }
+    },
+    {
+      "name": "connectWhatsapp()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 23,
+        "character": 0
+      },
+      "end": {
+        "line": 91,
+        "character": 1
+      }
+    },
+    {
+      "name": "connected",
+      "kind": 7,
+      "containerName": "WhatsappConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 31,
+        "character": 2
+      },
+      "end": {
+        "line": 31,
+        "character": 22
+      }
+    },
+    {
+      "name": "connected",
+      "kind": 7,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 14,
+        "character": 43
+      },
+      "end": {
+        "line": 14,
+        "character": 61
+      }
+    },
+    {
+      "name": "connected",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 150,
+        "character": 41
+      },
+      "end": {
+        "line": 150,
+        "character": 59
+      }
+    },
+    {
+      "name": "connected",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 17,
+        "character": 4
+      },
+      "end": {
+        "line": 17,
+        "character": 21
+      }
+    },
+    {
+      "name": "connected",
+      "kind": 12,
+      "containerName": "whatsappStatus",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 115,
+        "character": 8
+      },
+      "end": {
+        "line": 115,
+        "character": 36
+      }
+    },
+    {
+      "name": "connected",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 7,
+        "character": 9
+      },
+      "end": {
+        "line": 7,
+        "character": 18
+      }
+    },
+    {
+      "name": "connectionState",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 18,
+        "character": 4
+      },
+      "end": {
+        "line": 18,
+        "character": 36
+      }
+    },
+    {
+      "name": "connectionString",
+      "kind": 7,
+      "containerName": "ExternalDbConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 11,
+        "character": 2
+      },
+      "end": {
+        "line": 11,
+        "character": 28
+      }
+    },
+    {
+      "name": "content",
+      "kind": 7,
+      "containerName": "EmbeddingRecord",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 64,
+        "character": 2
+      },
+      "end": {
+        "line": 64,
+        "character": 18
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 45,
+        "character": 8
+      },
+      "end": {
+        "line": 45,
+        "character": 58
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 71,
+        "character": 8
+      },
+      "end": {
+        "line": 71,
+        "character": 58
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 123,
+        "character": 8
+      },
+      "end": {
+        "line": 123,
+        "character": 58
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "handleIncomingMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 54,
+        "character": 8
+      },
+      "end": {
+        "line": 60,
+        "character": 4
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "upsertConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 217,
+        "character": 6
+      },
+      "end": {
+        "line": 217,
+        "character": 78
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "addMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 263,
+        "character": 8
+      },
+      "end": {
+        "line": 263,
+        "character": 76
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "updateConversationMeta",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 275,
+        "character": 8
+      },
+      "end": {
+        "line": 275,
+        "character": 87
+      }
+    },
+    {
+      "name": "conv",
+      "kind": 12,
+      "containerName": "closeConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 284,
+        "character": 8
+      },
+      "end": {
+        "line": 284,
+        "character": 87
+      }
+    },
+    {
+      "name": "conversation",
+      "kind": 7,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 31,
+        "character": 29
+      },
+      "end": {
+        "line": 31,
+        "character": 55
+      }
+    },
+    {
+      "name": "conversation",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 65,
+        "character": 8
+      },
+      "end": {
+        "line": 68,
+        "character": 4
+      }
+    },
+    {
+      "name": "conversation",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 21,
+        "character": 8
+      },
+      "end": {
+        "line": 24,
+        "character": 4
+      }
+    },
+    {
+      "name": "conversation",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 102,
+        "character": 8
+      },
+      "end": {
+        "line": 117,
+        "character": 4
+      }
+    },
+    {
+      "name": "conversation",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 23,
+        "character": 9
+      },
+      "end": {
+        "line": 23,
+        "character": 21
+      }
+    },
+    {
+      "name": "conversationId",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 38,
+        "character": 2
+      },
+      "end": {
+        "line": 38,
+        "character": 25
+      }
+    },
+    {
+      "name": "conversationId",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 56,
+        "character": 10
+      },
+      "end": {
+        "line": 56,
+        "character": 24
+      }
+    },
+    {
+      "name": "conversationId",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 78,
+        "character": 4
+      },
+      "end": {
+        "line": 78,
+        "character": 18
+      }
+    },
+    {
+      "name": "conversationId",
+      "kind": 12,
+      "containerName": "handleIncomingMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 52,
+        "character": 8
+      },
+      "end": {
+        "line": 52,
+        "character": 52
+      }
+    },
+    {
+      "name": "conversations",
+      "kind": 7,
+      "containerName": "DataStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 72,
+        "character": 2
+      },
+      "end": {
+        "line": 72,
+        "character": 32
+      }
+    },
+    {
+      "name": "conversations",
+      "kind": 7,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 22,
+        "character": 31
+      },
+      "end": {
+        "line": 22,
+        "character": 60
+      }
+    },
+    {
+      "name": "conversations",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 36,
+        "character": 8
+      },
+      "end": {
+        "line": 36,
+        "character": 90
+      }
+    },
+    {
+      "name": "conversations",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 14,
+        "character": 9
+      },
+      "end": {
+        "line": 14,
+        "character": 22
+      }
+    },
+    {
+      "name": "cosineSimilarity",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 5,
+        "character": 6
+      },
+      "end": {
+        "line": 10,
+        "character": 1
+      }
+    },
+    {
+      "name": "create",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 31,
+        "character": 8
+      },
+      "end": {
+        "line": 41,
+        "character": 3
+      }
+    },
+    {
+      "name": "create",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 28,
+        "character": 8
+      },
+      "end": {
+        "line": 44,
+        "character": 3
+      }
+    },
+    {
+      "name": "createCompletion()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 45,
+        "character": 0
+      },
+      "end": {
+        "line": 53,
+        "character": 1
+      }
+    },
+    {
+      "name": "createEmbedding()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\openai.ts",
+      "start": {
+        "line": 36,
+        "character": 0
+      },
+      "end": {
+        "line": 43,
+        "character": 1
+      }
+    },
+    {
+      "name": "createKnowledge",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 34,
+        "character": 13
+      },
+      "end": {
+        "line": 56,
+        "character": 1
+      }
+    },
+    {
+      "name": "createKnowledge()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 303,
+        "character": 0
+      },
+      "end": {
+        "line": 323,
+        "character": 1
+      }
+    },
+    {
+      "name": "createOrUpdateAttendant",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 12,
+        "character": 6
+      },
+      "end": {
+        "line": 18,
+        "character": 1
+      }
+    },
+    {
+      "name": "createOrUpdateCustomer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 4,
+        "character": 6
+      },
+      "end": {
+        "line": 10,
+        "character": 1
+      }
+    },
+    {
+      "name": "createUser",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\userController.ts",
+      "start": {
+        "line": 5,
+        "character": 13
+      },
+      "end": {
+        "line": 32,
+        "character": 1
+      }
+    },
+    {
+      "name": "createUser()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 169,
+        "character": 0
+      },
+      "end": {
+        "line": 191,
+        "character": 1
+      }
+    },
+    {
+      "name": "createdAt",
+      "kind": 7,
+      "containerName": "Company",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 20
+      }
+    },
+    {
+      "name": "createdAt",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 20,
+        "character": 2
+      },
+      "end": {
+        "line": 20,
+        "character": 20
+      }
+    },
+    {
+      "name": "createdAt",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 32,
+        "character": 2
+      },
+      "end": {
+        "line": 32,
+        "character": 20
+      }
+    },
+    {
+      "name": "createdAt",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 55,
+        "character": 2
+      },
+      "end": {
+        "line": 55,
+        "character": 20
+      }
+    },
+    {
+      "name": "createdAt",
+      "kind": 7,
+      "containerName": "EmbeddingRecord",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 66,
+        "character": 2
+      },
+      "end": {
+        "line": 66,
+        "character": 20
+      }
+    },
+    {
+      "name": "ctx",
+      "kind": 12,
+      "containerName": "useAuth",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 75,
+        "character": 8
+      },
+      "end": {
+        "line": 75,
+        "character": 37
+      }
+    },
+    {
+      "name": "current",
+      "kind": 12,
+      "containerName": "saveCompanySettings",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 72,
+        "character": 8
+      },
+      "end": {
+        "line": 72,
+        "character": 60
+      }
+    },
+    {
+      "name": "customer",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 16,
+        "character": 2
+      },
+      "end": {
+        "line": 16,
+        "character": 45
+      }
+    },
+    {
+      "name": "customer",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 9,
+        "character": 2
+      },
+      "end": {
+        "line": 9,
+        "character": 45
+      }
+    },
+    {
+      "name": "customer",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 99,
+        "character": 8
+      },
+      "end": {
+        "line": 99,
+        "character": 131
+      }
+    },
+    {
+      "name": "customerName",
+      "kind": 7,
+      "containerName": "upsertConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 219,
+        "character": 4
+      },
+      "end": {
+        "line": 219,
+        "character": 63
+      }
+    },
+    {
+      "name": "customerName",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 27,
+        "character": 2
+      },
+      "end": {
+        "line": 27,
+        "character": 24
+      }
+    },
+    {
+      "name": "customerName",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 79,
+        "character": 4
+      },
+      "end": {
+        "line": 79,
+        "character": 16
+      }
+    },
+    {
+      "name": "customerName",
+      "kind": 12,
+      "containerName": "handleIncomingMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 51,
+        "character": 8
+      },
+      "end": {
+        "line": 51,
+        "character": 65
+      }
+    },
+    {
+      "name": "customerPhone",
+      "kind": 7,
+      "containerName": "upsertConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 220,
+        "character": 4
+      },
+      "end": {
+        "line": 220,
+        "character": 66
+      }
+    },
+    {
+      "name": "customerPhone",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 28,
+        "character": 2
+      },
+      "end": {
+        "line": 28,
+        "character": 25
+      }
+    },
+    {
+      "name": "customerPhone",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 80,
+        "character": 4
+      },
+      "end": {
+        "line": 80,
+        "character": 17
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "whatsappStatus",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 112,
+        "character": 8
+      },
+      "end": {
+        "line": 112,
+        "character": 59
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "whatsappQr",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 138,
+        "character": 8
+      },
+      "end": {
+        "line": 138,
+        "character": 59
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "initializeStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 80,
+        "character": 8
+      },
+      "end": {
+        "line": 80,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "updateCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 139,
+        "character": 8
+      },
+      "end": {
+        "line": 139,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "findUserByLogin",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 147,
+        "character": 8
+      },
+      "end": {
+        "line": 147,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "getUserById",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 158,
+        "character": 8
+      },
+      "end": {
+        "line": 158,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "createUser",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 173,
+        "character": 8
+      },
+      "end": {
+        "line": 173,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "upsertConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 215,
+        "character": 8
+      },
+      "end": {
+        "line": 215,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "addMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 262,
+        "character": 8
+      },
+      "end": {
+        "line": 262,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "updateConversationMeta",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 274,
+        "character": 8
+      },
+      "end": {
+        "line": 274,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "closeConversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 283,
+        "character": 8
+      },
+      "end": {
+        "line": 283,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "createKnowledge",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 307,
+        "character": 8
+      },
+      "end": {
+        "line": 307,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "updateKnowledge",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 330,
+        "character": 8
+      },
+      "end": {
+        "line": 330,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "deleteKnowledge",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 339,
+        "character": 8
+      },
+      "end": {
+        "line": 339,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "addEmbedding",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 346,
+        "character": 8
+      },
+      "end": {
+        "line": 346,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "setupCompany",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 368,
+        "character": 8
+      },
+      "end": {
+        "line": 368,
+        "character": 26
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 34,
+        "character": 12
+      },
+      "end": {
+        "line": 34,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 46,
+        "character": 12
+      },
+      "end": {
+        "line": 46,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 59,
+        "character": 12
+      },
+      "end": {
+        "line": 59,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 74,
+        "character": 12
+      },
+      "end": {
+        "line": 74,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 97,
+        "character": 12
+      },
+      "end": {
+        "line": 97,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 120,
+        "character": 12
+      },
+      "end": {
+        "line": 120,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 144,
+        "character": 12
+      },
+      "end": {
+        "line": 144,
+        "character": 35
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "api",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 32,
+        "character": 8
+      },
+      "end": {
+        "line": 32,
+        "character": 49
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 35,
+        "character": 12
+      },
+      "end": {
+        "line": 35,
+        "character": 60
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 52,
+        "character": 10
+      },
+      "end": {
+        "line": 55,
+        "character": 6
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 31,
+        "character": 10
+      },
+      "end": {
+        "line": 31,
+        "character": 86
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 65,
+        "character": 12
+      },
+      "end": {
+        "line": 68,
+        "character": 8
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 22,
+        "character": 12
+      },
+      "end": {
+        "line": 22,
+        "character": 89
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 23,
+        "character": 10
+      },
+      "end": {
+        "line": 23,
+        "character": 76
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 46,
+        "character": 12
+      },
+      "end": {
+        "line": 49,
+        "character": 8
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 54,
+        "character": 10
+      },
+      "end": {
+        "line": 66,
+        "character": 23
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 92,
+        "character": 10
+      },
+      "end": {
+        "line": 95,
+        "character": 6
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 101,
+        "character": 10
+      },
+      "end": {
+        "line": 104,
+        "character": 6
+      }
+    },
+    {
+      "name": "data",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 20,
+        "character": 10
+      },
+      "end": {
+        "line": 20,
+        "character": 62
+      }
+    },
+    {
+      "name": "dataPath",
+      "kind": 7,
+      "containerName": "StorageConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 43,
+        "character": 2
+      },
+      "end": {
+        "line": 43,
+        "character": 20
+      }
+    },
+    {
+      "name": "database",
+      "kind": 7,
+      "containerName": "ExternalDbConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 8,
+        "character": 2
+      },
+      "end": {
+        "line": 8,
+        "character": 20
+      }
+    },
+    {
+      "name": "db",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 42,
+        "character": 9
+      },
+      "end": {
+        "line": 42,
+        "character": 11
+      }
+    },
+    {
+      "name": "defaultSettings",
+      "kind": 12,
+      "containerName": "initializeStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 85,
+        "character": 8
+      },
+      "end": {
+        "line": 94,
+        "character": 3
+      }
+    },
+    {
+      "name": "deleteKnowledge",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\knowledgeController.ts",
+      "start": {
+        "line": 85,
+        "character": 13
+      },
+      "end": {
+        "line": 95,
+        "character": 1
+      }
+    },
+    {
+      "name": "deleteKnowledge()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 338,
+        "character": 0
+      },
+      "end": {
+        "line": 343,
+        "character": 1
+      }
+    },
+    {
+      "name": "detail",
+      "kind": 7,
+      "containerName": "AiLogEntry",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\aiLogs.ts",
+      "start": {
+        "line": 12,
+        "character": 2
+      },
+      "end": {
+        "line": 12,
+        "character": 18
+      }
+    },
+    {
+      "name": "detail",
+      "kind": 7,
+      "containerName": "AiLog",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 22,
+        "character": 2
+      },
+      "end": {
+        "line": 22,
+        "character": 18
+      }
+    },
+    {
+      "name": "dir",
+      "kind": 12,
+      "containerName": "getDataDir",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\config\\paths.ts",
+      "start": {
+        "line": 16,
+        "character": 8
+      },
+      "end": {
+        "line": 16,
+        "character": 45
+      }
+    },
+    {
+      "name": "dir",
+      "kind": 12,
+      "containerName": "getMessagesDir",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\config\\paths.ts",
+      "start": {
+        "line": 22,
+        "character": 8
+      },
+      "end": {
+        "line": 22,
+        "character": 50
+      }
+    },
+    {
+      "name": "dir",
+      "kind": 12,
+      "containerName": "getConfigDir",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\config\\paths.ts",
+      "start": {
+        "line": 28,
+        "character": 8
+      },
+      "end": {
+        "line": 28,
+        "character": 47
+      }
+    },
+    {
+      "name": "direction",
+      "kind": 7,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 27,
+        "character": 69
+      },
+      "end": {
+        "line": 27,
+        "character": 87
+      }
+    },
+    {
+      "name": "direction",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 42,
+        "character": 2
+      },
+      "end": {
+        "line": 42,
+        "character": 20
+      }
+    },
+    {
+      "name": "direction",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 8,
+        "character": 2
+      },
+      "end": {
+        "line": 8,
+        "character": 20
+      }
+    },
+    {
+      "name": "direction",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 84,
+        "character": 4
+      },
+      "end": {
+        "line": 84,
+        "character": 13
+      }
+    },
+    {
+      "name": "dot",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\aiController.ts",
+      "start": {
+        "line": 6,
+        "character": 8
+      },
+      "end": {
+        "line": 6,
+        "character": 79
+      }
+    },
+    {
+      "name": "e",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\conversationsController.ts",
+      "start": {
+        "line": 91,
+        "character": 13
+      },
+      "end": {
+        "line": 91,
+        "character": 14
+      }
+    },
+    {
+      "name": "e",
+      "kind": 12,
+      "containerName": "handleIncomingMessage",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 91,
+        "character": 13
+      },
+      "end": {
+        "line": 91,
+        "character": 14
+      }
+    },
+    {
+      "name": "e",
+      "kind": 12,
+      "containerName": "startLocalWhatsapp",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 164,
+        "character": 11
+      },
+      "end": {
+        "line": 164,
+        "character": 12
+      }
+    },
+    {
+      "name": "email",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 15,
+        "character": 2
+      },
+      "end": {
+        "line": 15,
+        "character": 16
+      }
+    },
+    {
+      "name": "email",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 6,
+        "character": 2
+      },
+      "end": {
+        "line": 6,
+        "character": 16
+      }
+    },
+    {
+      "name": "email",
+      "kind": 7,
+      "containerName": "UserRow",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 6,
+        "character": 2
+      },
+      "end": {
+        "line": 6,
+        "character": 16
+      }
+    },
+    {
+      "name": "email",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\authController.ts",
+      "start": {
+        "line": 9,
+        "character": 10
+      },
+      "end": {
+        "line": 9,
+        "character": 15
+      }
+    },
+    {
+      "name": "email",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\userController.ts",
+      "start": {
+        "line": 7,
+        "character": 16
+      },
+      "end": {
+        "line": 7,
+        "character": 21
+      }
+    },
+    {
+      "name": "email",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 14,
+        "character": 9
+      },
+      "end": {
+        "line": 14,
+        "character": 14
+      }
+    },
+    {
+      "name": "emb",
+      "kind": 12,
+      "containerName": "addEmbedding",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 347,
+        "character": 8
+      },
+      "end": {
+        "line": 351,
+        "character": 3
+      }
+    },
+    {
+      "name": "embeddingText",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\botController.ts",
+      "start": {
+        "line": 62,
+        "character": 8
+      },
+      "end": {
+        "line": 62,
+        "character": 73
+      }
+    },
+    {
+      "name": "embeddings",
+      "kind": 7,
+      "containerName": "deleteKnowledge",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 341,
+        "character": 2
+      },
+      "end": {
+        "line": 341,
+        "character": 68
+      }
+    },
+    {
+      "name": "embeddings",
+      "kind": 7,
+      "containerName": "DataStore",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 74,
+        "character": 2
+      },
+      "end": {
+        "line": 74,
+        "character": 32
+      }
+    },
+    {
+      "name": "enabled",
+      "kind": 7,
+      "containerName": "ExternalDbConfig",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 13,
+        "character": 2
+      },
+      "end": {
+        "line": 13,
+        "character": 20
+      }
+    },
+    {
+      "name": "enabled",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\settingsController.ts",
+      "start": {
+        "line": 6,
+        "character": 10
+      },
+      "end": {
+        "line": 6,
+        "character": 17
+      }
+    },
+    {
+      "name": "ensureWhatsappOnBoot()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 166,
+        "character": 0
+      },
+      "end": {
+        "line": 175,
+        "character": 1
+      }
+    },
+    {
+      "name": "err",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 70,
+        "character": 13
+      },
+      "end": {
+        "line": 70,
+        "character": 25
+      }
+    },
+    {
+      "name": "err",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 51,
+        "character": 13
+      },
+      "end": {
+        "line": 51,
+        "character": 25
+      }
+    },
+    {
+      "name": "err",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 19,
+        "character": 13
+      },
+      "end": {
+        "line": 19,
+        "character": 25
+      }
+    },
+    {
+      "name": "err",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 41,
+        "character": 13
+      },
+      "end": {
+        "line": 41,
+        "character": 25
+      }
+    },
+    {
+      "name": "error",
+      "kind": 7,
+      "containerName": "api",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 34,
+        "character": 31
+      },
+      "end": {
+        "line": 34,
+        "character": 45
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\middleware\\auth.ts",
+      "start": {
+        "line": 23,
+        "character": 11
+      },
+      "end": {
+        "line": 23,
+        "character": 16
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 36,
+        "character": 13
+      },
+      "end": {
+        "line": 36,
+        "character": 18
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 49,
+        "character": 13
+      },
+      "end": {
+        "line": 49,
+        "character": 18
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 61,
+        "character": 13
+      },
+      "end": {
+        "line": 61,
+        "character": 18
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 83,
+        "character": 13
+      },
+      "end": {
+        "line": 83,
+        "character": 18
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 103,
+        "character": 13
+      },
+      "end": {
+        "line": 103,
+        "character": 18
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 123,
+        "character": 13
+      },
+      "end": {
+        "line": 123,
+        "character": 18
+      }
+    },
+    {
+      "name": "error",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 152,
+        "character": 13
+      },
+      "end": {
+        "line": 152,
+        "character": 18
+      }
+    },
+    {
+      "name": "evolutionConnect",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 178,
+        "character": 13
+      },
+      "end": {
+        "line": 178,
+        "character": 47
+      }
+    },
+    {
+      "name": "evolutionQr",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 180,
+        "character": 13
+      },
+      "end": {
+        "line": 180,
+        "character": 37
+      }
+    },
+    {
+      "name": "evolutionStatus",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappService.ts",
+      "start": {
+        "line": 179,
+        "character": 13
+      },
+      "end": {
+        "line": 179,
+        "character": 45
+      }
+    },
+    {
+      "name": "evolutionWebhookUrl",
+      "kind": 7,
+      "containerName": "ConnInfo",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 10,
+        "character": 2
+      },
+      "end": {
+        "line": 10,
+        "character": 31
+      }
+    },
+    {
+      "name": "executablePath",
+      "kind": 12,
+      "containerName": "startLocalWhatsapp",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\whatsappLocal.ts",
+      "start": {
+        "line": 109,
+        "character": 8
+      },
+      "end": {
+        "line": 109,
+        "character": 62
+      }
+    },
+    {
+      "name": "existingCompany",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\controllers\\setupController.ts",
+      "start": {
+        "line": 30,
+        "character": 8
+      },
+      "end": {
+        "line": 30,
+        "character": 78
+      }
+    },
+    {
+      "name": "exists",
+      "kind": 12,
+      "containerName": "createUser",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 174,
+        "character": 8
+      },
+      "end": {
+        "line": 174,
+        "character": 92
+      }
+    },
+    {
+      "name": "expanded",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 10,
+        "character": 9
+      },
+      "end": {
+        "line": 10,
+        "character": 17
+      }
+    },
+    {
+      "name": "externalDb",
+      "kind": 7,
+      "containerName": "CompanySettings",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\services\\companySettings.ts",
+      "start": {
+        "line": 47,
+        "character": 2
+      },
+      "end": {
+        "line": 47,
+        "character": 39
+      }
+    },
+    {
+      "name": "externalId",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\types.ts",
+      "start": {
+        "line": 26,
+        "character": 2
+      },
+      "end": {
+        "line": 26,
+        "character": 21
+      }
+    },
+    {
+      "name": "externalId",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 21
+      }
+    },
+    {
+      "name": "fetchCurrentUser",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 29,
+        "character": 8
+      },
+      "end": {
+        "line": 39,
+        "character": 3
+      }
+    },
+    {
+      "name": "fetchSettings",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 41,
+        "character": 8
+      },
+      "end": {
+        "line": 52,
+        "character": 3
+      }
+    },
+    {
+      "name": "fetchUsers",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 54,
+        "character": 8
+      },
+      "end": {
+        "line": 64,
+        "character": 3
+      }
+    },
+    {
+      "name": "file",
+      "kind": 12,
+      "containerName": "loadSecrets",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\config\\loadSecrets.ts",
+      "start": {
+        "line": 24,
+        "character": 13
+      },
+      "end": {
+        "line": 24,
+        "character": 17
+      }
+    },
+    {
+      "name": "file",
+      "kind": 12,
+      "containerName": "listAiLogs",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\aiLogs.ts",
+      "start": {
+        "line": 31,
+        "character": 8
+      },
+      "end": {
+        "line": 31,
+        "character": 24
+      }
+    },
+    {
+      "name": "file",
+      "kind": 12,
+      "containerName": "readMessagesFromTxt",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 51,
+        "character": 8
+      },
+      "end": {
+        "line": 51,
+        "character": 45
+      }
+    },
+    {
+      "name": "files",
+      "kind": 12,
+      "containerName": "loadSecrets",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\config\\loadSecrets.ts",
+      "start": {
+        "line": 17,
+        "character": 8
+      },
+      "end": {
+        "line": 22,
+        "character": 3
+      }
+    },
+    {
+      "name": "filter",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 15,
+        "character": 9
+      },
+      "end": {
+        "line": 15,
+        "character": 15
+      }
+    },
+    {
+      "name": "findUserByLogin()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\backend\\src\\storage\\fileStore.ts",
+      "start": {
+        "line": 146,
+        "character": 0
+      },
+      "end": {
+        "line": 155,
+        "character": 1
+      }
+    },
+    {
+      "name": "fromEnv",
+      "kind": 12,
+      "containerName": "getApiBase",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 8,
+        "character": 8
+      },
+      "end": {
+        "line": 8,
+        "character": 51
+      }
+    },
+    {
+      "name": "fromStorage",
+      "kind": 12,
+      "containerName": "getApiBase",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 3,
+        "character": 8
+      },
+      "end": {
+        "line": 3,
+        "character": 54
+      }
+    },
+    {
+      "name": "getApiBase()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 2,
+        "character": 0
+      },
+      "end": {
+        "line": 10,
+        "character": 1
+      }
+    },
+    {
+      "name": "getToken()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 16,
+        "character": 0
+      },
+      "end": {
+        "line": 18,
+        "character": 1
+      }
+    },
+    {
+      "name": "handleLogin",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 66,
+        "character": 8
+      },
+      "end": {
+        "line": 87,
+        "character": 3
+      }
+    },
+    {
+      "name": "handleSetup",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 89,
+        "character": 8
+      },
+      "end": {
+        "line": 107,
+        "character": 3
+      }
+    },
+    {
+      "name": "handleToggleAI",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 109,
+        "character": 8
+      },
+      "end": {
+        "line": 127,
+        "character": 3
+      }
+    },
+    {
+      "name": "handleUpdateOpenaiKey",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 129,
+        "character": 8
+      },
+      "end": {
+        "line": 156,
+        "character": 3
+      }
+    },
+    {
+      "name": "hasOpenaiKey",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 19,
+        "character": 9
+      },
+      "end": {
+        "line": 19,
+        "character": 21
+      }
+    },
+    {
+      "name": "headers",
+      "kind": 12,
+      "containerName": "api",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 25,
+        "character": 8
+      },
+      "end": {
+        "line": 28,
+        "character": 3
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 4,
+        "character": 2
+      },
+      "end": {
+        "line": 4,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 6,
+        "character": 2
+      },
+      "end": {
+        "line": 6,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 14,
+        "character": 2
+      },
+      "end": {
+        "line": 14,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 5,
+        "character": 2
+      },
+      "end": {
+        "line": 5,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "KnowledgeItem",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 4,
+        "character": 2
+      },
+      "end": {
+        "line": 4,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "AiLog",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 16,
+        "character": 2
+      },
+      "end": {
+        "line": 16,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 7,
+      "containerName": "UserRow",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 4,
+        "character": 2
+      },
+      "end": {
+        "line": 4,
+        "character": 13
+      }
+    },
+    {
+      "name": "id",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 21,
+        "character": 10
+      },
+      "end": {
+        "line": 21,
+        "character": 12
+      }
+    },
+    {
+      "name": "inputPreview",
+      "kind": 7,
+      "containerName": "AiLog",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 19,
+        "character": 2
+      },
+      "end": {
+        "line": 19,
+        "character": 23
+      }
+    },
+    {
+      "name": "isAdmin",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 6,
+        "character": 8
+      },
+      "end": {
+        "line": 6,
+        "character": 40
+      }
+    },
+    {
+      "name": "isAdmin",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 27,
+        "character": 8
+      },
+      "end": {
+        "line": 27,
+        "character": 40
+      }
+    },
+    {
+      "name": "isAttendant",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 105,
+        "character": 16
+      },
+      "end": {
+        "line": 105,
+        "character": 57
+      }
+    },
+    {
+      "name": "items",
+      "kind": 7,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 23,
+        "character": 29
+      },
+      "end": {
+        "line": 23,
+        "character": 51
+      }
+    },
+    {
+      "name": "items",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 13,
+        "character": 9
+      },
+      "end": {
+        "line": 13,
+        "character": 14
+      }
+    },
+    {
+      "name": "last",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 69,
+        "character": 18
+      },
+      "end": {
+        "line": 69,
+        "character": 40
+      }
+    },
+    {
+      "name": "load",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 29,
+        "character": 8
+      },
+      "end": {
+        "line": 33,
+        "character": 3
+      }
+    },
+    {
+      "name": "load",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 18,
+        "character": 8
+      },
+      "end": {
+        "line": 28,
+        "character": 3
+      }
+    },
+    {
+      "name": "load",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 21,
+        "character": 8
+      },
+      "end": {
+        "line": 25,
+        "character": 3
+      }
+    },
+    {
+      "name": "load",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 53,
+        "character": 8
+      },
+      "end": {
+        "line": 85,
+        "character": 3
+      }
+    },
+    {
+      "name": "load",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 19,
+        "character": 8
+      },
+      "end": {
+        "line": 22,
+        "character": 3
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 7,
+      "containerName": "AuthContextValue",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 14,
+        "character": 2
+      },
+      "end": {
+        "line": 14,
+        "character": 19
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 8,
+        "character": 9
+      },
+      "end": {
+        "line": 8,
+        "character": 16
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 25,
+        "character": 9
+      },
+      "end": {
+        "line": 25,
+        "character": 16
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 26,
+        "character": 9
+      },
+      "end": {
+        "line": 26,
+        "character": 16
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 16,
+        "character": 9
+      },
+      "end": {
+        "line": 16,
+        "character": 16
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 19,
+        "character": 9
+      },
+      "end": {
+        "line": 19,
+        "character": 16
+      }
+    },
+    {
+      "name": "loading",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 10,
+        "character": 9
+      },
+      "end": {
+        "line": 10,
+        "character": 16
+      }
+    },
+    {
+      "name": "localUrls",
+      "kind": 7,
+      "containerName": "ConnInfo",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 8,
+        "character": 2
+      },
+      "end": {
+        "line": 8,
+        "character": 23
+      }
+    },
+    {
+      "name": "logData",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 83,
+        "character": 10
+      },
+      "end": {
+        "line": 83,
+        "character": 73
+      }
+    },
+    {
+      "name": "login",
+      "kind": 7,
+      "containerName": "AuthContextValue",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 15,
+        "character": 2
+      },
+      "end": {
+        "line": 15,
+        "character": 60
+      }
+    },
+    {
+      "name": "login",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 51,
+        "character": 8
+      },
+      "end": {
+        "line": 59,
+        "character": 3
+      }
+    },
+    {
+      "name": "login",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 5,
+        "character": 10
+      },
+      "end": {
+        "line": 5,
+        "character": 15
+      }
+    },
+    {
+      "name": "login",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 14,
+        "character": 9
+      },
+      "end": {
+        "line": 14,
+        "character": 14
+      }
+    },
+    {
+      "name": "logout",
+      "kind": 7,
+      "containerName": "AuthContextValue",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 16,
+        "character": 2
+      },
+      "end": {
+        "line": 16,
+        "character": 21
+      }
+    },
+    {
+      "name": "logout",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 158,
+        "character": 8
+      },
+      "end": {
+        "line": 164,
+        "character": 3
+      }
+    },
+    {
+      "name": "logout",
+      "kind": 12,
+      "containerName": "Layout",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\Layout.tsx",
+      "start": {
+        "line": 11,
+        "character": 16
+      },
+      "end": {
+        "line": 11,
+        "character": 22
+      }
+    },
+    {
+      "name": "logout",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 61,
+        "character": 8
+      },
+      "end": {
+        "line": 65,
+        "character": 3
+      }
+    },
+    {
+      "name": "logs",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 83,
+        "character": 32
+      },
+      "end": {
+        "line": 83,
+        "character": 45
+      }
+    },
+    {
+      "name": "logs",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 38,
+        "character": 9
+      },
+      "end": {
+        "line": 38,
+        "character": 13
+      }
+    },
+    {
+      "name": "message",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 110,
+        "character": 39
+      },
+      "end": {
+        "line": 110,
+        "character": 54
+      }
+    },
+    {
+      "name": "message",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 7,
+        "character": 9
+      },
+      "end": {
+        "line": 7,
+        "character": 16
+      }
+    },
+    {
+      "name": "message",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 9,
+        "character": 9
+      },
+      "end": {
+        "line": 9,
+        "character": 16
+      }
+    },
+    {
+      "name": "message",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 29,
+        "character": 9
+      },
+      "end": {
+        "line": 29,
+        "character": 16
+      }
+    },
+    {
+      "name": "message",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 17,
+        "character": 9
+      },
+      "end": {
+        "line": 17,
+        "character": 16
+      }
+    },
+    {
+      "name": "messages",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 17,
+        "character": 2
+      },
+      "end": {
+        "line": 17,
+        "character": 22
+      }
+    },
+    {
+      "name": "messages",
+      "kind": 7,
+      "containerName": "Conversation",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 10,
+        "character": 2
+      },
+      "end": {
+        "line": 10,
+        "character": 51
+      }
+    },
+    {
+      "name": "name",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 5,
+        "character": 2
+      },
+      "end": {
+        "line": 5,
+        "character": 15
+      }
+    },
+    {
+      "name": "name",
+      "kind": 7,
+      "containerName": "UserRow",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 5,
+        "character": 2
+      },
+      "end": {
+        "line": 5,
+        "character": 15
+      }
+    },
+    {
+      "name": "name",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 13,
+        "character": 9
+      },
+      "end": {
+        "line": 13,
+        "character": 13
+      }
+    },
+    {
+      "name": "nav",
+      "kind": 12,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\Layout.tsx",
+      "start": {
+        "line": 4,
+        "character": 6
+      },
+      "end": {
+        "line": 8,
+        "character": 1
+      }
+    },
+    {
+      "name": "navigate",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 6,
+        "character": 8
+      },
+      "end": {
+        "line": 6,
+        "character": 32
+      }
+    },
+    {
+      "name": "notify",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 48,
+        "character": 8
+      },
+      "end": {
+        "line": 51,
+        "character": 3
+      }
+    },
+    {
+      "name": "ok",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 110,
+        "character": 26
+      },
+      "end": {
+        "line": 110,
+        "character": 38
+      }
+    },
+    {
+      "name": "onLogin",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 12,
+        "character": 8
+      },
+      "end": {
+        "line": 23,
+        "character": 3
+      }
+    },
+    {
+      "name": "openaiConfigured",
+      "kind": 7,
+      "containerName": "ConnInfo",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 12,
+        "character": 2
+      },
+      "end": {
+        "line": 12,
+        "character": 29
+      }
+    },
+    {
+      "name": "openaiConfigured",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 33,
+        "character": 9
+      },
+      "end": {
+        "line": 33,
+        "character": 25
+      }
+    },
+    {
+      "name": "openaiKey",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 18,
+        "character": 9
+      },
+      "end": {
+        "line": 18,
+        "character": 18
+      }
+    },
+    {
+      "name": "outputPreview",
+      "kind": 7,
+      "containerName": "AiLog",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 20,
+        "character": 2
+      },
+      "end": {
+        "line": 20,
+        "character": 24
+      }
+    },
+    {
+      "name": "pairingCode",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 142,
+        "character": 64
+      },
+      "end": {
+        "line": 142,
+        "character": 84
+      }
+    },
+    {
+      "name": "password",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 15,
+        "character": 9
+      },
+      "end": {
+        "line": 15,
+        "character": 17
+      }
+    },
+    {
+      "name": "password",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 8,
+        "character": 9
+      },
+      "end": {
+        "line": 8,
+        "character": 17
+      }
+    },
+    {
+      "name": "password",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 15,
+        "character": 9
+      },
+      "end": {
+        "line": 15,
+        "character": 17
+      }
+    },
+    {
+      "name": "publicUrl",
+      "kind": 7,
+      "containerName": "ConnInfo",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 21
+      }
+    },
+    {
+      "name": "q",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 18,
+        "character": 14
+      },
+      "end": {
+        "line": 18,
+        "character": 81
+      }
+    },
+    {
+      "name": "q",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 21,
+        "character": 12
+      },
+      "end": {
+        "line": 21,
+        "character": 49
+      }
+    },
+    {
+      "name": "q",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 22,
+        "character": 10
+      },
+      "end": {
+        "line": 22,
+        "character": 67
+      }
+    },
+    {
+      "name": "q",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 154,
+        "character": 12
+      },
+      "end": {
+        "line": 154,
+        "character": 79
+      }
+    },
+    {
+      "name": "qrCode",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 9,
+        "character": 9
+      },
+      "end": {
+        "line": 9,
+        "character": 15
+      }
+    },
+    {
+      "name": "qrCode",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 37,
+        "character": 9
+      },
+      "end": {
+        "line": 37,
+        "character": 15
+      }
+    },
+    {
+      "name": "qrcode",
+      "kind": 7,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 18,
+        "character": 30
+      },
+      "end": {
+        "line": 18,
+        "character": 45
+      }
+    },
+    {
+      "name": "qrcode",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 142,
+        "character": 26
+      },
+      "end": {
+        "line": 142,
+        "character": 42
+      }
+    },
+    {
+      "name": "qrcode",
+      "kind": 7,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 154,
+        "character": 28
+      },
+      "end": {
+        "line": 154,
+        "character": 43
+      }
+    },
+    {
+      "name": "r",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 110,
+        "character": 10
+      },
+      "end": {
+        "line": 110,
+        "character": 102
+      }
+    },
+    {
+      "name": "r",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 142,
+        "character": 10
+      },
+      "end": {
+        "line": 144,
+        "character": 6
+      }
+    },
+    {
+      "name": "refresh",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 12,
+        "character": 8
+      },
+      "end": {
+        "line": 29,
+        "character": 3
+      }
+    },
+    {
+      "name": "refreshUser",
+      "kind": 7,
+      "containerName": "AuthContextValue",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 17,
+        "character": 2
+      },
+      "end": {
+        "line": 17,
+        "character": 35
+      }
+    },
+    {
+      "name": "refreshUser",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 27,
+        "character": 8
+      },
+      "end": {
+        "line": 45,
+        "character": 3
+      }
+    },
+    {
+      "name": "refreshWaStatus",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 149,
+        "character": 8
+      },
+      "end": {
+        "line": 157,
+        "character": 3
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 31,
+        "character": 12
+      },
+      "end": {
+        "line": 33,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 43,
+        "character": 12
+      },
+      "end": {
+        "line": 45,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 56,
+        "character": 12
+      },
+      "end": {
+        "line": 58,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 69,
+        "character": 12
+      },
+      "end": {
+        "line": 73,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 92,
+        "character": 12
+      },
+      "end": {
+        "line": 96,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 112,
+        "character": 12
+      },
+      "end": {
+        "line": 119,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 136,
+        "character": 12
+      },
+      "end": {
+        "line": 143,
+        "character": 8
+      }
+    },
+    {
+      "name": "res",
+      "kind": 12,
+      "containerName": "api",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 31,
+        "character": 8
+      },
+      "end": {
+        "line": 31,
+        "character": 76
+      }
+    },
+    {
+      "name": "role",
+      "kind": 7,
+      "containerName": "User",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 15
+      }
+    },
+    {
+      "name": "role",
+      "kind": 7,
+      "containerName": "UserRow",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 7,
+        "character": 2
+      },
+      "end": {
+        "line": 7,
+        "character": 15
+      }
+    },
+    {
+      "name": "role",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 16,
+        "character": 9
+      },
+      "end": {
+        "line": 16,
+        "character": 13
+      }
+    },
+    {
+      "name": "s",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 14,
+        "character": 12
+      },
+      "end": {
+        "line": 14,
+        "character": 97
+      }
+    },
+    {
+      "name": "s",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 150,
+        "character": 10
+      },
+      "end": {
+        "line": 150,
+        "character": 95
+      }
+    },
+    {
+      "name": "saveAi",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 128,
+        "character": 8
+      },
+      "end": {
+        "line": 132,
+        "character": 3
+      }
+    },
+    {
+      "name": "saveServer",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 115,
+        "character": 8
+      },
+      "end": {
+        "line": 120,
+        "character": 3
+      }
+    },
+    {
+      "name": "saveStorage",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 122,
+        "character": 8
+      },
+      "end": {
+        "line": 126,
+        "character": 3
+      }
+    },
+    {
+      "name": "saveWa",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 134,
+        "character": 8
+      },
+      "end": {
+        "line": 138,
+        "character": 3
+      }
+    },
+    {
+      "name": "search",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 14,
+        "character": 9
+      },
+      "end": {
+        "line": 14,
+        "character": 15
+      }
+    },
+    {
+      "name": "searchAi",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 43,
+        "character": 8
+      },
+      "end": {
+        "line": 55,
+        "character": 3
+      }
+    },
+    {
+      "name": "send",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 45,
+        "character": 8
+      },
+      "end": {
+        "line": 59,
+        "character": 3
+      }
+    },
+    {
+      "name": "sender",
+      "kind": 7,
+      "containerName": "Message",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 9,
+        "character": 2
+      },
+      "end": {
+        "line": 9,
+        "character": 17
+      }
+    },
+    {
+      "name": "server",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 40,
+        "character": 9
+      },
+      "end": {
+        "line": 40,
+        "character": 15
+      }
+    },
+    {
+      "name": "setAdminEmail",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 12,
+        "character": 21
+      },
+      "end": {
+        "line": 12,
+        "character": 34
+      }
+    },
+    {
+      "name": "setAdminName",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 11,
+        "character": 20
+      },
+      "end": {
+        "line": 11,
+        "character": 32
+      }
+    },
+    {
+      "name": "setAdminPassword",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 13,
+        "character": 24
+      },
+      "end": {
+        "line": 13,
+        "character": 40
+      }
+    },
+    {
+      "name": "setAi",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 43,
+        "character": 13
+      },
+      "end": {
+        "line": 43,
+        "character": 18
+      }
+    },
+    {
+      "name": "setAiAnswer",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 18,
+        "character": 19
+      },
+      "end": {
+        "line": 18,
+        "character": 30
+      }
+    },
+    {
+      "name": "setAiEnabled",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 16,
+        "character": 20
+      },
+      "end": {
+        "line": 16,
+        "character": 32
+      }
+    },
+    {
+      "name": "setAiEnabled",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 31,
+        "character": 20
+      },
+      "end": {
+        "line": 31,
+        "character": 32
+      }
+    },
+    {
+      "name": "setAiQuestion",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 17,
+        "character": 21
+      },
+      "end": {
+        "line": 17,
+        "character": 34
+      }
+    },
+    {
+      "name": "setAiText",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 25,
+        "character": 17
+      },
+      "end": {
+        "line": 25,
+        "character": 26
+      }
+    },
+    {
+      "name": "setAnswer",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 16,
+        "character": 17
+      },
+      "end": {
+        "line": 16,
+        "character": 26
+      }
+    },
+    {
+      "name": "setApiBase()",
+      "kind": 11,
+      "containerName": "",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\api\\client.ts",
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 14,
+        "character": 1
+      }
+    },
+    {
+      "name": "setBotEnabled",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 32,
+        "character": 21
+      },
+      "end": {
+        "line": 32,
+        "character": 34
+      }
+    },
+    {
+      "name": "setCompanyId",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 30,
+        "character": 20
+      },
+      "end": {
+        "line": 30,
+        "character": 32
+      }
+    },
+    {
+      "name": "setCompanyName",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 9,
+        "character": 22
+      },
+      "end": {
+        "line": 9,
+        "character": 36
+      }
+    },
+    {
+      "name": "setConn",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 34,
+        "character": 15
+      },
+      "end": {
+        "line": 34,
+        "character": 22
+      }
+    },
+    {
+      "name": "setConnected",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 7,
+        "character": 20
+      },
+      "end": {
+        "line": 7,
+        "character": 32
+      }
+    },
+    {
+      "name": "setConversation",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 23,
+        "character": 23
+      },
+      "end": {
+        "line": 23,
+        "character": 38
+      }
+    },
+    {
+      "name": "setConversations",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 14,
+        "character": 24
+      },
+      "end": {
+        "line": 14,
+        "character": 40
+      }
+    },
+    {
+      "name": "setDb",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 42,
+        "character": 13
+      },
+      "end": {
+        "line": 42,
+        "character": 18
+      }
+    },
+    {
+      "name": "setEmail",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 14,
+        "character": 16
+      },
+      "end": {
+        "line": 14,
+        "character": 24
+      }
+    },
+    {
+      "name": "setExpanded",
+      "kind": 12,
+      "containerName": "WhatsAppBar",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\components\\WhatsAppBar.tsx",
+      "start": {
+        "line": 10,
+        "character": 19
+      },
+      "end": {
+        "line": 10,
+        "character": 30
+      }
+    },
+    {
+      "name": "setFilter",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 15,
+        "character": 17
+      },
+      "end": {
+        "line": 15,
+        "character": 26
+      }
+    },
+    {
+      "name": "setHasOpenaiKey",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 19,
+        "character": 23
+      },
+      "end": {
+        "line": 19,
+        "character": 38
+      }
+    },
+    {
+      "name": "setItems",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 13,
+        "character": 16
+      },
+      "end": {
+        "line": 13,
+        "character": 24
+      }
+    },
+    {
+      "name": "setLoading",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 8,
+        "character": 18
+      },
+      "end": {
+        "line": 8,
+        "character": 28
+      }
+    },
+    {
+      "name": "setLoading",
+      "kind": 12,
+      "containerName": "AuthProvider",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\context\\AuthContext.tsx",
+      "start": {
+        "line": 25,
+        "character": 18
+      },
+      "end": {
+        "line": 25,
+        "character": 28
+      }
+    },
+    {
+      "name": "setLoading",
+      "kind": 12,
+      "containerName": "ConversationChatPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationChatPage.tsx",
+      "start": {
+        "line": 26,
+        "character": 18
+      },
+      "end": {
+        "line": 26,
+        "character": 28
+      }
+    },
+    {
+      "name": "setLoading",
+      "kind": 12,
+      "containerName": "ConversationsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\ConversationsPage.tsx",
+      "start": {
+        "line": 16,
+        "character": 18
+      },
+      "end": {
+        "line": 16,
+        "character": 28
+      }
+    },
+    {
+      "name": "setLoading",
+      "kind": 12,
+      "containerName": "KnowledgePage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\KnowledgePage.tsx",
+      "start": {
+        "line": 19,
+        "character": 18
+      },
+      "end": {
+        "line": 19,
+        "character": 28
+      }
+    },
+    {
+      "name": "setLoading",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 10,
+        "character": 18
+      },
+      "end": {
+        "line": 10,
+        "character": 28
+      }
+    },
+    {
+      "name": "setLogin",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 14,
+        "character": 16
+      },
+      "end": {
+        "line": 14,
+        "character": 24
+      }
+    },
+    {
+      "name": "setLogs",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 38,
+        "character": 15
+      },
+      "end": {
+        "line": 38,
+        "character": 22
+      }
+    },
+    {
+      "name": "setMessage",
+      "kind": 12,
+      "containerName": "App",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\App.tsx",
+      "start": {
+        "line": 7,
+        "character": 18
+      },
+      "end": {
+        "line": 7,
+        "character": 28
+      }
+    },
+    {
+      "name": "setMessage",
+      "kind": 12,
+      "containerName": "LoginPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\LoginPage.tsx",
+      "start": {
+        "line": 9,
+        "character": 18
+      },
+      "end": {
+        "line": 9,
+        "character": 28
+      }
+    },
+    {
+      "name": "setMessage",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 29,
+        "character": 18
+      },
+      "end": {
+        "line": 29,
+        "character": 28
+      }
+    },
+    {
+      "name": "setMessage",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 17,
+        "character": 18
+      },
+      "end": {
+        "line": 17,
+        "character": 28
+      }
+    },
+    {
+      "name": "setName",
+      "kind": 12,
+      "containerName": "UsersPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\UsersPage.tsx",
+      "start": {
+        "line": 13,
+        "character": 15
+      },
+      "end": {
+        "line": 13,
+        "character": 22
+      }
+    },
+    {
+      "name": "setOpenaiConfigured",
+      "kind": 12,
+      "containerName": "SettingsPage",
+      "filePath": "d:\\windows\\Rossine\\frontend\\src\\pages\\SettingsPage.tsx",
+      "start": {
+        "line": 33,
+        "character": 27
+      },
+      "end": {
+        "line": 33,
+        "character": 46
+      }
+    }
+  ],
+  "activeFileDiagnostics": [],
+  "debugConsoleOutput": "",
+  "terminalBuffer": "",
+  "terminalSelection": "",
+  "terminalShellType": "powershell",
+  "repoContexts": [
+    {
+      "_repo": {
+        "rootUri": {
+          "$mid": 1,
+          "path": "/d:/windows/Rossine",
+          "scheme": "file"
+        },
+        "inputBox": {},
+        "kind": "repository",
+        "state": {},
+        "ui": {}
+      },
+      "rootUri": {
+        "$mid": 1,
+        "path": "/d:/windows/Rossine",
+        "scheme": "file"
+      },
+      "kind": "repository",
+      "headBranchName": "main",
+      "isRebasing": true,
+      "remotes": [],
+      "remoteFetchUrls": [],
+      "worktrees": [
+        {
+          "name": "Rossine",
+          "path": "d:\\windows\\Rossine",
+          "ref": "refs/heads/main",
+          "detached": false,
+          "main": true
+        }
+      ],
+      "changes": {
+        "mergeChanges": [],
+        "indexChanges": [],
+        "workingTree": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "untrackedChanges": []
+      },
+      "_onDidChangeSignal": {
+        "_observers": {},
+        "debugName": "Observable Signal From Event"
+      },
+      "headBranchNameObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "headCommitHashObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "upstreamBranchNameObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "upstreamRemoteObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "isRebasingObs": {
+        "_observers": {},
+        "_debugNameData": {},
+        "_state": 0,
+        "_updateCount": 0,
+        "_dependencies": {},
+        "_dependenciesToBeRemoved": {},
+        "_isUpdating": false,
+        "_isComputing": false,
+        "_didReportChange": false,
+        "_isInBeforeUpdate": false,
+        "_isReaderValid": false,
+        "_removedObserverToCallEndUpdateOn": null
+      },
+      "_checkIsIgnored": {
+        "_waitingTimeMs": 1000,
+        "_queue": [],
+        "_timeout": null
+      },
+      "_isIgnored": {
+        "_map": {},
+        "_map2": {}
+      }
+    }
+  ],
+  "notebookDocumentFilePaths": [],
+  "textDocumentFilePaths": [
+    ".gitignore",
+    ".env.example",
+    "README.md",
+    "backend/package.json",
+    "backend/tsconfig.json",
+    "backend/tsconfig.node.json",
+    "backend/prisma/schema.prisma",
+    "backend/src/index.ts",
+    "backend/src/app.ts",
+    "backend/src/services/openai.ts",
+    "backend/src/utils/types.ts",
+    "backend/src/middleware/auth.ts",
+    "backend/src/controllers/authController.ts",
+    "backend/src/controllers/botController.ts",
+    "backend/src/controllers/aiController.ts",
+    "backend/src/controllers/knowledgeController.ts",
+    "backend/src/controllers/setupController.ts",
+    "backend/src/controllers/userController.ts",
+    "backend/src/controllers/settingsController.ts",
+    "backend/src/routes/auth.ts",
+    "backend/src/routes/bot.ts",
+    "backend/src/routes/ai.ts",
+    "backend/src/routes/knowledge.ts",
+    "backend/src/routes/users.ts",
+    "backend/src/routes/setup.ts",
+    "backend/src/routes/settings.ts",
+    "backend/prisma/seed.ts",
+    "frontend/package.json",
+    "frontend/vite.config.ts",
+    "frontend/tsconfig.json",
+    "frontend/tsconfig.node.json",
+    "frontend/postcss.config.js",
+    "frontend/tailwind.config.js",
+    "frontend/index.html",
+    "frontend/src/main.tsx",
+    "frontend/src/index.css",
+    "frontend/src/vite-env.d.ts",
+    "frontend/src/App.tsx",
+    "backend/.env"
+  ]
+}

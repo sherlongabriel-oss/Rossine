@@ -1,0 +1,58 @@
+{
+  "name": "qi-support-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QI Support AI - atendimento WhatsApp + IA empacotado em Electron portable",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "build:icon": "node scripts/generate-icon.mjs",
+    "build:frontend": "cd frontend && npm install && npm run build",
+    "build:backend": "cd backend && npm install && npm run build",
+    "build:app": "npm run build:frontend && npm run build:backend",
+    "dist": "npm run build:app && electron-builder --win --x64",
+    "dist:portable": "npm run build:app && electron-builder --win portable --x64",
+    "dist:installer": "npm run build:app && electron-builder --win nsis --x64",
+    "start": "electron .",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "build": {
+    "appId": "com.qi.supportai",
+    "productName": "QI Support AI",
+    "asar": true,
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "electron/**/*"
+    ],
+    "extraResources": [
+      { "from": "backend/dist",         "to": "qi-app/backend/dist" },
+      { "from": "backend/public",       "to": "qi-app/backend/public" },
+      { "from": "backend/config",       "to": "qi-app/backend/config" },
+      { "from": "backend/node_modules", "to": "qi-app/backend/node_modules" },
+      { "from": "LOGO",                 "to": "qi-app/LOGO" }
+    ],
+    "win": {
+      "icon": "LOGO/logo.ico",
+      "target": [
+        { "target": "nsis", "arch": ["x64"] },
+        { "target": "portable", "arch": ["x64"] }
+      ],
+      "artifactName": "QISupportAI-${version}-${os}-${arch}.${ext}"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": false,
+      "shortcutName": "QI Support AI"
+    },
+    "portable": {
+      "artifactName": "QISupportAI-${version}-portable.exe"
+    }
+  },
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "png-to-ico": "^2.0.1"
+  }
+}
