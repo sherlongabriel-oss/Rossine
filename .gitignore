@@ -14,6 +14,8 @@ yarn-error.log*
 frontend/dist
 backend/node_modules
 backend/dist
+backend/config/secrets.env
+backend/config/secrets.env.demo
 dist
 release/
 **/release/
