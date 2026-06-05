@@ -3,14 +3,11 @@ const storageKey = "qi_api_base";
 export function getApiBase() {
   const fromStorage = localStorage.getItem(storageKey);
   if (fromStorage) return fromStorage.replace(/\/$/, "");
-  const fromEnv = import.meta.env.VITE_API_BASE_URL;
-  if (fromEnv) return fromEnv.replace(/\/$/, "");
   if (typeof window !== "undefined") {
-    const origin = window.location.origin.replace(/\/$/, "");
-    if (origin.includes("netlify.app")) return "https://rossine.onrender.com";
-    return origin;
+    return window.location.origin.replace(/\/$/, "");
   }
-  return "http://localhost:4000";
+  const fromEnv = import.meta.env.VITE_API_BASE_URL;
+  return (fromEnv || "http://localhost:4000").replace(/\/$/, "");
 }
 
 export function setApiBase(url: string) {
