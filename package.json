@@ -5,6 +5,7 @@
   "description": "QI Support AI - atendimento WhatsApp + IA empacotado em Electron portable",
   "main": "electron/main.cjs",
   "scripts": {
+    "build": "cd backend && npm install --omit=dev && npm run build",
     "build:icon": "node scripts/generate-icon.mjs",
     "build:frontend": "cd frontend && npm install && npm run build",
     "build:backend": "cd backend && npm install && npm run build",
