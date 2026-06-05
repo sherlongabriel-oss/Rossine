@@ -14,3 +14,15 @@ yarn-error.log*
 frontend/dist
 backend/node_modules
 backend/dist
+dist
+release/
+**/release/
+dist/*.exe
+dist/**/*.exe
+dist/**/*.zip
+dist/**/*.7z
+dist/**/*.blockmap
+dist/**/*.nsis.7z
+dist/**/*.zip
+dist/**/*.7z
+dist/**/win-unpacked/
