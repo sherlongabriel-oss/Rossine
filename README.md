@@ -51,6 +51,22 @@ que o usuario possa trocar pela interface no futuro.
 3. Quando `/api/health` responde, o Electron carrega a janela.
 4. Dados persistem em arquivos (`data/dados.json` e `data/mensagens/*.txt`).
 
+## Deploy em servidor (Render)
+
+Para rodar como SaaS/Servidor no Render:
+
+1. Configure o Web Service apontando para `/backend`.
+   - Build: `npm install --omit=dev && npm run build`
+   - Start: `npm run start`
+   - Defina a variável `QI_DATA_DIR=/data` e anexe um disco persistente montado em `/data`.
+   - Configure envs (`DATABASE_URL`, `OPENAI_API_KEY`, etc.) conforme `backend/config/secrets.env.example`.
+   - Após primeiro deploy, rode `npm run prisma:migrate deploy` no Shell para aplicar migrations.
+2. Crie um Static Site em `/frontend`.
+   - Build: `npm install && npm run build`
+   - Publish: `frontend/dist`
+   - Set `VITE_API_BASE_URL` para a URL pública do backend.
+3. Opcional: configure domínio customizado e HTTPS diretamente no Render.
+
 ## Login padrao
 
 - Usuario: `admin`

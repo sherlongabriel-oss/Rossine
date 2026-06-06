@@ -22,7 +22,9 @@ export default function WhatsAppBar() {
       setConnected(s.connected);
       setStatus(s.connected ? "✓ WhatsApp conectado" : s.state === "qr" ? "📱 Escaneie o QR Code" : `Status: ${s.state}`);
       
-      if (!s.connected && (s.state === "qr" || s.state === "connecting")) {
+      // Enquanto não conectado, sempre tentamos buscar o QR. Mesmo que o estado ainda não seja "qr",
+      // o backend pode gerar o código após alguns segundos, então mantemos o polling ativo.
+      if (!s.connected) {
         try {
           console.log("[WhatsApp Bar] Buscando QR code...");
           const qrRes = await fetch(`${baseUrl}/api/public/whatsapp/qrcode`);

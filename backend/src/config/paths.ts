@@ -28,7 +28,8 @@ export function getBackendDir(): string {
 }
 
 export function getDataDir(): string {
-  const dir = path.join(getAppRoot(), "data");
+  const override = process.env.QI_DATA_DIR;
+  const dir = override ? path.resolve(override) : path.join(getAppRoot(), "data");
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
   return dir;
 }
