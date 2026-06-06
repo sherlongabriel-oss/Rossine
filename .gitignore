@@ -16,6 +16,11 @@ backend/node_modules
 backend/dist
 backend/config/secrets.env
 backend/config/secrets.env.demo
+backend/.wwebjs_cache/
+backend/data/mensagens/
+backend/data/whatsapp-session/
+backend/data/ia_aprendizado.jsonl
+backend/data/dados.json
 dist
 release/
 **/release/
