@@ -27,6 +27,22 @@ export function getLocalWhatsappState() {
   };
 }
 
+export async function getLocalContacts() {
+  if (!client) return [];
+  try {
+    const contacts = await client.getContacts();
+    return contacts.map((c) => ({
+      id: c.id?._serialized || c.id?.user || c.id,
+      name: c.name || c.pushname || c.shortName || "",
+      number: c.number || c.id?.user || "",
+      isGroup: Boolean((c as any).isGroup),
+    }));
+  } catch (e) {
+    console.error("[WhatsApp] Erro ao listar contatos:", e);
+    return [];
+  }
+}
+
 async function setQr(qr: string) {
   lastQrRaw = qr;
   lastQrDataUrl = await QRCode.toDataURL(qr, { margin: 1, width: 280 });

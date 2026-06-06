@@ -16,6 +16,7 @@ import { testOpenAiConnection } from "../services/openai";
 import { parseWhatsappExport } from "../utils/whatsappImport";
 import {
   connectWhatsapp,
+  whatsappContacts,
   whatsappQr,
   whatsappStatus,
 } from "../services/whatsappService";
@@ -210,6 +211,17 @@ export const whatsappQrHandler: RequestHandler = async (req, res) => {
     res.json(qr);
   } catch (e) {
     res.status(400).json({ error: e instanceof Error ? e.message : "Erro" });
+  }
+};
+
+export const whatsappContactsHandler: RequestHandler = async (req, res) => {
+  const authUser = (req as AuthRequest).user;
+  if (!authUser) return res.status(401).json({ error: "Nao autorizado" });
+  try {
+    const contacts = await whatsappContacts(authUser.companyId);
+    res.json({ contacts });
+  } catch (e) {
+    res.status(500).json({ error: e instanceof Error ? e.message : "Erro" });
   }
 };
 

@@ -13,6 +13,9 @@ import settingsRoutes from "./routes/settings";
 import conversationsRoutes from "./routes/conversations";
 import { authMiddleware } from "./middleware/auth";
 import { getPublicDir } from "./config/paths";
+import { whatsappStatus, whatsappQr } from "./services/whatsappService";
+import { getCompany } from "./storage/fileStore";
+
 
 const app = express();
 
@@ -42,8 +45,6 @@ app.use("/api/bot", botRoutes);
 // Public WhatsApp endpoints (sem autenticação para simplificar)
 app.get("/api/public/whatsapp/status", async (_req, res) => {
   try {
-    const { whatsappStatus } = await import("./services/whatsappService.js");
-    const { getCompany } = await import("./storage/fileStore.js");
     const company = getCompany();
     if (!company) return res.status(400).json({ error: "Empresa não encontrada" });
     const status = await whatsappStatus(company.id);
@@ -55,8 +56,6 @@ app.get("/api/public/whatsapp/status", async (_req, res) => {
 
 app.get("/api/public/whatsapp/qrcode", async (_req, res) => {
   try {
-    const { whatsappQr } = await import("./services/whatsappService.js");
-    const { getCompany } = await import("./storage/fileStore.js");
     const company = getCompany();
     if (!company) return res.status(400).json({ error: "Empresa não encontrada" });
     const qr = await whatsappQr(company.id);

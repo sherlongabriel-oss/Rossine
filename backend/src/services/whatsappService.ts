@@ -149,6 +149,18 @@ export async function whatsappQr(companyId: string) {
   };
 }
 
+export async function whatsappContacts(companyId: string) {
+  const settings = await getCompanySettings(companyId);
+  const cfg = settings.whatsapp || {};
+
+  if (isLocalProvider(cfg)) {
+    return local.getLocalContacts();
+  }
+
+  // Para provedores externos (Evolution API), se houver suporte a contatos, implementar aqui.
+  return [];
+}
+
 export async function sendWhatsappText(companyId: string, phone: string, text: string) {
   const settings = await getCompanySettings(companyId);
   const cfg = settings.whatsapp || {};

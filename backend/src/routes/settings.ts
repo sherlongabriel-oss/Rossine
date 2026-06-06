@@ -16,6 +16,7 @@ import {
   importWhatsappHistory,
   whatsappQrHandler,
   whatsappStatusHandler,
+  whatsappContactsHandler,
 } from "../controllers/settingsController";
 
 const router = Router();
@@ -35,6 +36,7 @@ router.patch("/whatsapp", updateWhatsappSettings);
 router.post("/whatsapp/connect", connectWhatsappHandler);
 router.get("/whatsapp/status", whatsappStatusHandler);
 router.get("/whatsapp/qrcode", whatsappQrHandler);
+router.get("/whatsapp/contacts", whatsappContactsHandler);
 router.post("/whatsapp/import", importWhatsappHistory);
 
 export default router;
