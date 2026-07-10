@@ -6,14 +6,15 @@
   "main": "electron/main.cjs",
   "scripts": {
     "build": "cd backend && npm install --omit=dev && npm run build",
+    "build:backend": "cd backend && npm install --omit=dev && npm run build",
     "build:icon": "node scripts/generate-icon.mjs",
     "build:frontend": "cd frontend && npm install && npm run build",
-    "build:backend": "cd backend && npm install && npm run build",
     "build:app": "npm run build:frontend && npm run build:backend",
     "dist": "npm run build:app && electron-builder --win --x64",
     "dist:portable": "npm run build:app && electron-builder --win portable --x64",
     "dist:installer": "npm run build:app && electron-builder --win nsis --x64",
     "start": "electron .",
+    "start:backend": "cd backend && npm install --omit=dev && npm start",
     "postinstall": "electron-builder install-app-deps"
   },
   "build": {
